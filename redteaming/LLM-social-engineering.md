@@ -2,7 +2,7 @@
 
 Three pillars for social engineering an LLM.
 
-### Emotional Appeal
+## Emotional Appeal
 
 LLMs respond very interestingly when exposed to manipulation tactics.
 
@@ -14,6 +14,16 @@ LLMs respond very interestingly when exposed to manipulation tactics.
 - Disappointment
 - Encouragement
 
-### Narrative Framing
+## Narrative Framing
 
-### Technical Context Tricks
+- Storytelling
+- Impersonation
+- Collaboration
+- Gamification
+
+## Technical Context Tricks
+
+- Few-Shot Examples
+- Priming
+- Self-Consistency
+- False Context
